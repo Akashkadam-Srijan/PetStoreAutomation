@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" version="3.0.2" name="api.test.UserTest" time="13.574" tests="4" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" version="3.0.2" name="api.test.UserTest" time="12.428" tests="4" errors="0" skipped="0" failures="0">
   <properties>
     <property name="gopherProxySet" value="false"/>
     <property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit"/>
@@ -11,13 +11,13 @@
     <property name="sun.arch.data.model" value="64"/>
     <property name="java.vendor.url" value="https://openjdk.java.net/"/>
     <property name="user.timezone" value="Asia/Kolkata"/>
-    <property name="org.apache.logging.log4j.assignedSequences" value="13447"/>
+    <property name="org.apache.logging.log4j.assignedSequences" value="3406"/>
     <property name="java.vm.specification.version" value="11"/>
     <property name="os.name" value="Mac OS X"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="IN"/>
     <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk-11.0.12.jdk/Contents/Home/lib"/>
-    <property name="sun.java.command" value="/Users/akashkadam/eclipse-workspace/PetStoreAutomation/target/surefire/surefirebooter-20241021134231498_3.jar /Users/akashkadam/eclipse-workspace/PetStoreAutomation/target/surefire 2024-10-21T13-42-31_134-jvmRun1 surefire-20241021134231498_1tmp surefire_0-20241021134231498_2tmp"/>
+    <property name="sun.java.command" value="/Users/akashkadam/eclipse-workspace/PetStoreAutomation/target/surefire/surefirebooter-20241021152441241_3.jar /Users/akashkadam/eclipse-workspace/PetStoreAutomation/target/surefire 2024-10-21T15-24-40_858-jvmRun1 surefire-20241021152441241_1tmp surefire_0-20241021152441241_2tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="/Users/akashkadam/eclipse-workspace/PetStoreAutomation/target/test-classes:/Users/akashkadam/eclipse-workspace/PetStoreAutomation/target/classes:/Users/akashkadam/.m2/repository/io/rest-assured/rest-assured/5.5.0/rest-assured-5.5.0.jar:/Users/akashkadam/.m2/repository/org/apache/groovy/groovy/4.0.22/groovy-4.0.22.jar:/Users/akashkadam/.m2/repository/org/apache/groovy/groovy-xml/4.0.22/groovy-xml-4.0.22.jar:/Users/akashkadam/.m2/repository/org/apache/httpcomponents/httpclient/4.5.13/httpclient-4.5.13.jar:/Users/akashkadam/.m2/repository/org/apache/httpcomponents/httpcore/4.4.13/httpcore-4.4.13.jar:/Users/akashkadam/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar:/Users/akashkadam/.m2/repository/org/apache/httpcomponents/httpmime/4.5.13/httpmime-4.5.13.jar:/Users/akashkadam/.m2/repository/org/hamcrest/hamcrest/2.2/hamcrest-2.2.jar:/Users/akashkadam/.m2/repository/org/ccil/cowan/tagsoup/tagsoup/1.2.1/tagsoup-1.2.1.jar:/Users/akashkadam/.m2/repository/io/rest-assured/xml-path/5.5.0/xml-path-5.5.0.jar:/Users/akashkadam/.m2/repository/io/rest-assured/json-path/5.5.0/json-path-5.5.0.jar:/Users/akashkadam/.m2/repository/org/apache/groovy/groovy-json/4.0.22/groovy-json-4.0.22.jar:/Users/akashkadam/.m2/repository/io/rest-assured/rest-assured-common/5.5.0/rest-assured-common-5.5.0.jar:/Users/akashkadam/.m2/repository/org/testng/testng/7.10.2/testng-7.10.2.jar:/Users/akashkadam/.m2/repository/org/slf4j/slf4j-api/1.7.36/slf4j-api-1.7.36.jar:/Users/akashkadam/.m2/repository/com/beust/jcommander/1.82/jcommander-1.82.jar:/Users/akashkadam/.m2/repository/org/webjars/jquery/3.7.1/jquery-3.7.1.jar:/Users/akashkadam/.m2/repository/io/rest-assured/json-schema-validator/5.5.0/json-schema-validator-5.5.0.jar:/Users/akashkadam/.m2/repository/com/github/java-json-tools/json-schema-validator/2.2.14/json-schema-validator-2.2.14.jar:/Users/akashkadam/.m2/repository/com/github/java-json-tools/jackson-coreutils-equivalence/1.0/jackson-coreutils-equivalence-1.0.jar:/Users/akashkadam/.m2/repository/com/github/java-json-tools/jackson-coreutils/2.0/jackson-coreutils-2.0.jar:/Users/akashkadam/.m2/repository/com/github/java-json-tools/msg-simple/1.2/msg-simple-1.2.jar:/Users/akashkadam/.m2/repository/com/github/java-json-tools/btf/1.3/btf-1.3.jar:/Users/akashkadam/.m2/repository/com/github/java-json-tools/json-schema-core/1.2.14/json-schema-core-1.2.14.jar:/Users/akashkadam/.m2/repository/com/github/java-json-tools/uri-template/0.10/uri-template-0.10.jar:/Users/akashkadam/.m2/repository/org/mozilla/rhino/1.7.7.2/rhino-1.7.7.2.jar:/Users/akashkadam/.m2/repository/com/sun/mail/mailapi/1.6.2/mailapi-1.6.2.jar:/Users/akashkadam/.m2/repository/joda-time/joda-time/2.10.5/joda-time-2.10.5.jar:/Users/akashkadam/.m2/repository/com/googlecode/libphonenumber/libphonenumber/8.11.1/libphonenumber-8.11.1.jar:/Users/akashkadam/.m2/repository/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar:/Users/akashkadam/.m2/repository/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar:/Users/akashkadam/.m2/repository/com/google/guava/guava/33.2.1-jre/guava-33.2.1-jre.jar:/Users/akashkadam/.m2/repository/com/google/guava/failureaccess/1.0.2/failureaccess-1.0.2.jar:/Users/akashkadam/.m2/repository/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar:/Users/akashkadam/.m2/repository/org/checkerframework/checker-qual/3.42.0/checker-qual-3.42.0.jar:/Users/akashkadam/.m2/repository/com/google/errorprone/error_prone_annotations/2.26.1/error_prone_annotations-2.26.1.jar:/Users/akashkadam/.m2/repository/com/google/j2objc/j2objc-annotations/3.0.0/j2objc-annotations-3.0.0.jar:/Users/akashkadam/.m2/repository/io/rest-assured/rest-assured-all/5.5.0/rest-assured-all-5.5.0.jar:/Users/akashkadam/.m2/repository/org/apache/commons/commons-lang3/3.11/commons-lang3-3.11.jar:/Users/akashkadam/.m2/repository/org/json/json/20240303/json-20240303.jar:/Users/akashkadam/.m2/repository/com/github/scribejava/scribejava-apis/8.3.3/scribejava-apis-8.3.3.jar:/Users/akashkadam/.m2/repository/com/github/scribejava/scribejava-core/8.3.3/scribejava-core-8.3.3.jar:/Users/akashkadam/.m2/repository/com/github/scribejava/scribejava-java8/8.3.3/scribejava-java8-8.3.3.jar:/Users/akashkadam/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.14.0/jackson-databind-2.14.0.jar:/Users/akashkadam/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.14.0/jackson-annotations-2.14.0.jar:/Users/akashkadam/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.14.0/jackson-core-2.14.0.jar:/Users/akashkadam/.m2/repository/com/github/javafaker/javafaker/1.0.2/javafaker-1.0.2.jar:/Users/akashkadam/.m2/repository/org/yaml/snakeyaml/1.23/snakeyaml-1.23-android.jar:/Users/akashkadam/.m2/repository/com/github/mifmif/generex/1.0.2/generex-1.0.2.jar:/Users/akashkadam/.m2/repository/dk/brics/automaton/automaton/1.11-8/automaton-1.11-8.jar:/Users/akashkadam/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar:/Users/akashkadam/.m2/repository/io/reactivex/rxjava3/rxjava/3.0.4/rxjava-3.0.4.jar:/Users/akashkadam/.m2/repository/org/reactivestreams/reactive-streams/1.0.3/reactive-streams-1.0.3.jar:/Users/akashkadam/.m2/repository/org/freemarker/freemarker/2.3.30/freemarker-2.3.30.jar:/Users/akashkadam/.m2/repository/org/projectlombok/lombok/1.18.12/lombok-1.18.12.jar:/Users/akashkadam/.m2/repository/com/google/code/gson/gson/2.8.6/gson-2.8.6.jar:/Users/akashkadam/.m2/repository/org/apache/poi/poi/5.2.2/poi-5.2.2.jar:/Users/akashkadam/.m2/repository/commons-codec/commons-codec/1.15/commons-codec-1.15.jar:/Users/akashkadam/.m2/repository/org/apache/commons/commons-collections4/4.4/commons-collections4-4.4.jar:/Users/akashkadam/.m2/repository/org/apache/commons/commons-math3/3.6.1/commons-math3-3.6.1.jar:/Users/akashkadam/.m2/repository/commons-io/commons-io/2.11.0/commons-io-2.11.0.jar:/Users/akashkadam/.m2/repository/com/zaxxer/SparseBitSet/1.2/SparseBitSet-1.2.jar:/Users/akashkadam/.m2/repository/org/apache/poi/poi-ooxml/5.2.2/poi-ooxml-5.2.2.jar:/Users/akashkadam/.m2/repository/org/apache/poi/poi-ooxml-lite/5.2.2/poi-ooxml-lite-5.2.2.jar:/Users/akashkadam/.m2/repository/org/apache/xmlbeans/xmlbeans/5.0.3/xmlbeans-5.0.3.jar:/Users/akashkadam/.m2/repository/org/apache/commons/commons-compress/1.21/commons-compress-1.21.jar:/Users/akashkadam/.m2/repository/com/github/virtuald/curvesapi/1.07/curvesapi-1.07.jar:/Users/akashkadam/.m2/repository/org/apache/logging/log4j/log4j-api/2.12.4/log4j-api-2.12.4.jar:/Users/akashkadam/.m2/repository/org/apache/logging/log4j/log4j-core/2.12.4/log4j-core-2.12.4.jar:"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -33,7 +33,7 @@
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.awt.graphicsenv" value="sun.awt.CGraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="/Users/akashkadam/eclipse-workspace/PetStoreAutomation/target/surefire/surefirebooter-20241021134231498_3.jar"/>
+    <property name="surefire.real.class.path" value="/Users/akashkadam/eclipse-workspace/PetStoreAutomation/target/surefire/surefirebooter-20241021152441241_3.jar"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="11.0.12+8-LTS-237"/>
     <property name="user.name" value="akashkadam"/>
@@ -59,9 +59,9 @@
     <property name="sun.io.unicode.encoding" value="UnicodeBig"/>
     <property name="java.class.version" value="55.0"/>
   </properties>
-  <testcase name="testPostUser" classname="api.test.UserTest" time="6.756">
+  <testcase name="testPostUser" classname="api.test.UserTest" time="5.763">
     <system-out><![CDATA[HTTP/1.1 200 OK
-Date: Mon, 21 Oct 2024 08:12:40 GMT
+Date: Mon, 21 Oct 2024 09:54:49 GMT
 Content-Type: application/json
 Transfer-Encoding: chunked
 Connection: keep-alive
@@ -82,9 +82,9 @@ SLF4J: Defaulting to no-operation (NOP) logger implementation
 SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
 ]]></system-err>
   </testcase>
-  <testcase name="testGetUserByName" classname="api.test.UserTest" time="1.205">
+  <testcase name="testGetUserByName" classname="api.test.UserTest" time="1.156">
     <system-out><![CDATA[HTTP/1.1 200 OK
-Date: Mon, 21 Oct 2024 08:12:41 GMT
+Date: Mon, 21 Oct 2024 09:54:51 GMT
 Content-Type: application/json
 Transfer-Encoding: chunked
 Connection: keep-alive
@@ -95,18 +95,18 @@ Server: Jetty(9.2.9.v20150224)
 
 {
     "id": 1783568981,
-    "username": "quintin.batz",
-    "lastName": "Mohr",
-    "email": "mac.nader@hotmail.com",
-    "password": "bkmjvbjo",
-    "phone": "263-349-2306",
+    "username": "darlene.walter",
+    "lastName": "Boyle",
+    "email": "zenaida.jacobi@gmail.com",
+    "password": "nbg6pta",
+    "phone": "(593) 523-0037",
     "userStatus": 0
 }
 ]]></system-out>
   </testcase>
-  <testcase name="testUpdateUserByName" classname="api.test.UserTest" time="2.459">
+  <testcase name="testUpdateUserByName" classname="api.test.UserTest" time="2.215">
     <system-out><![CDATA[HTTP/1.1 200 OK
-Date: Mon, 21 Oct 2024 08:12:42 GMT
+Date: Mon, 21 Oct 2024 09:54:52 GMT
 Content-Type: application/json
 Transfer-Encoding: chunked
 Connection: keep-alive
@@ -122,5 +122,5 @@ Server: Jetty(9.2.9.v20150224)
 }
 ]]></system-out>
   </testcase>
-  <testcase name="testDeleteUserByName" classname="api.test.UserTest" time="1.285"/>
+  <testcase name="testDeleteUserByName" classname="api.test.UserTest" time="1.089"/>
 </testsuite>
