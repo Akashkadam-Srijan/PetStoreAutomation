@@ -2,6 +2,9 @@ api/endpoints/Routes.class
 api/endpoints/UserEndPoints2.class
 api/test/UserTest2.class
 api/test/UserTest.class
+api/payload/Pet.class
+api/endpoints/PetEndPoints.class
+api/test/PetTest.class
 api/payload/User.class
 api/endpoints/UserEndPoints.class
 api/utilities/ExtentReportManager.class

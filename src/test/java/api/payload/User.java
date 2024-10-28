@@ -9,6 +9,8 @@ public class User {
 	String email;
 	String password;
 	String phone;
+	String name;
+	
 	int userStatus = 0;
 	
 	
@@ -61,5 +63,11 @@ public class User {
 		this.userStatus = userStatus;
 	}
 	
-
+	public String getName() {
+		return name;
+	}
+	public void setName(String name) {
+		this.name = name;
+	}
+	
 }

@@ -18,6 +18,15 @@ public class Routes {
 	public static String get_url =base_url+"/user/{username}";
 	public static String update_url =base_url+"/user/{username}";
 	public static String delete_url =base_url+"/user/{username}";
+	
+	
+	// Pet Module
+	public static String Pet_Post_Url = "https://petstore.swagger.io/v2/pet";
+	public static String Pet_Get_Url = "https://petstore.swagger.io/v2/pet/{id}";
+	public static String Pet_Update_Url = "https://petstore.swagger.io/v2/pet/{id}";
+	public static String Pet_Delete_Url = "https://petstore.swagger.io/v2/pet/{id}";
+	
+
 
 
 }
