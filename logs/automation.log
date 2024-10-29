@@ -1,48 +1,17 @@
-10:40:51.000 [main] INFO  api.test.UserTest - ******* Creating User *********
-10:40:55.154 [main] INFO  api.test.UserTest - ******* User is created *********
-10:40:55.173 [main] INFO  api.test.UserTest - ******* Reading User Info *********
-10:40:56.403 [main] INFO  api.test.UserTest - ******* User info is displayed *********
-10:40:56.423 [main] INFO  api.test.UserTest - ******* Updating User *********
-10:40:58.963 [main] INFO  api.test.UserTest - ******* User is updated *********
-10:40:58.988 [main] INFO  api.test.UserTest - ******* Deleting User *********
-10:41:00.167 [main] INFO  api.test.UserTest - ******* User deleted *********
-10:41:00.249 [main] INFO  api.test.PetTest - ******* Creating Pet *********
-10:41:01.499 [main] INFO  api.test.PetTest - ******* Pet is created *********
-10:41:01.506 [main] INFO  api.test.PetTest - ******* Reading Pet Info *********
-10:41:02.890 [main] INFO  api.test.PetTest - ******* Pet Info found *********
-10:41:02.895 [main] INFO  api.test.PetTest - ******* Updating Pet Name *********
-10:41:04.155 [main] INFO  api.test.PetTest - ******* Pet name is updated *********
-10:41:04.167 [main] INFO  api.test.PetTest - ******* Deleting Pet *********
-10:41:05.318 [main] INFO  api.test.PetTest - ******* Pet deleted *********
-10:41:39.511 [main] INFO  api.test.UserTest - ******* Creating User *********
-10:41:43.873 [main] INFO  api.test.UserTest - ******* User is created *********
-10:41:43.916 [main] INFO  api.test.UserTest - ******* Reading User Info *********
-10:41:45.261 [main] INFO  api.test.UserTest - ******* User info is displayed *********
-10:41:45.288 [main] INFO  api.test.UserTest - ******* Updating User *********
-10:41:47.908 [main] INFO  api.test.UserTest - ******* User is updated *********
-10:41:47.934 [main] INFO  api.test.UserTest - ******* Deleting User *********
-10:41:49.097 [main] INFO  api.test.UserTest - ******* User deleted *********
-10:41:49.184 [main] INFO  api.test.PetTest - ******* Creating Pet *********
-10:41:50.576 [main] INFO  api.test.PetTest - ******* Pet is created *********
-10:41:50.587 [main] INFO  api.test.PetTest - ******* Reading Pet Info *********
-10:41:51.922 [main] INFO  api.test.PetTest - ******* Pet Info found *********
-10:41:51.939 [main] INFO  api.test.PetTest - ******* Updating Pet Name *********
-10:41:53.149 [main] INFO  api.test.PetTest - ******* Pet name is updated *********
-10:41:53.164 [main] INFO  api.test.PetTest - ******* Deleting Pet *********
-10:41:54.384 [main] INFO  api.test.PetTest - ******* Pet deleted *********
-11:29:26.020 [main] INFO  api.test.UserTest - ******* Creating User *********
-11:29:30.358 [main] INFO  api.test.UserTest - ******* User is created *********
-11:29:30.397 [main] INFO  api.test.UserTest - ******* Reading User Info *********
-11:29:31.659 [main] INFO  api.test.UserTest - ******* User info is displayed *********
-11:29:31.685 [main] INFO  api.test.UserTest - ******* Updating User *********
-11:29:34.129 [main] INFO  api.test.UserTest - ******* User is updated *********
-11:29:34.151 [main] INFO  api.test.UserTest - ******* Deleting User *********
-11:29:35.265 [main] INFO  api.test.UserTest - ******* User deleted *********
-11:29:35.494 [main] INFO  api.test.PetTest - ******* Creating Pet *********
-11:29:36.812 [main] INFO  api.test.PetTest - ******* Pet is created *********
-11:29:36.835 [main] INFO  api.test.PetTest - ******* Reading Pet Info *********
-11:29:38.091 [main] INFO  api.test.PetTest - ******* Pet Info found *********
-11:29:38.100 [main] INFO  api.test.PetTest - ******* Updating Pet Name *********
-11:29:39.392 [main] INFO  api.test.PetTest - ******* Pet name is updated *********
-11:29:39.411 [main] INFO  api.test.PetTest - ******* Deleting Pet *********
-11:29:40.577 [main] INFO  api.test.PetTest - ******* Pet deleted *********
+
+12:39:30.191 [main] INFO  api.test.UserTest - ******* Creating User *********
+12:39:34.461 [main] INFO  api.test.UserTest - ******* User is created *********
+12:39:34.503 [main] INFO  api.test.UserTest - ******* Reading User Info *********
+12:39:35.687 [main] INFO  api.test.UserTest - ******* User info is displayed *********
+12:39:35.704 [main] INFO  api.test.UserTest - ******* Updating User *********
+12:39:37.946 [main] INFO  api.test.UserTest - ******* User is updated *********
+12:39:37.959 [main] INFO  api.test.UserTest - ******* Deleting User *********
+12:39:39.043 [main] INFO  api.test.UserTest - ******* User deleted *********
+12:39:39.103 [main] INFO  api.test.PetTest - ******* Creating Pet *********
+12:39:40.235 [main] INFO  api.test.PetTest - ******* Pet is created *********
+12:39:40.244 [main] INFO  api.test.PetTest - ******* Reading Pet Info *********
+12:39:41.327 [main] INFO  api.test.PetTest - ******* Pet Info found *********
+12:39:41.336 [main] INFO  api.test.PetTest - ******* Updating Pet Name *********
+12:39:42.425 [main] INFO  api.test.PetTest - ******* Pet name is updated *********
+12:39:42.439 [main] INFO  api.test.PetTest - ******* Deleting Pet *********
+12:39:43.524 [main] INFO  api.test.PetTest - ******* Pet deleted *********
